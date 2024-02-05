@@ -1,3 +1,8 @@
+/**
+ * This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0.
+ * If a copy of the MPL was not distributed with this file,
+ * You can obtain one at https://mozilla.org/MPL/2.0/.
+ */
 package top.cmarco.spigotcalculator.command;
 
 import lombok.RequiredArgsConstructor;
@@ -6,7 +11,6 @@ import org.bukkit.command.Command;
 import org.bukkit.command.CommandExecutor;
 import org.bukkit.command.CommandSender;
 import org.bukkit.entity.Player;
-import org.bukkit.inventory.Inventory;
 import top.cmarco.spigotcalculator.SpigotCalculator;
 import top.cmarco.spigotcalculator.config.CalculatorConfig;
 import top.cmarco.spigotcalculator.gui.CalculatorGui;
