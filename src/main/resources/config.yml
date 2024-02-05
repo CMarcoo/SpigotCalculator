@@ -1,0 +1,15 @@
+# SpigotCalculator configuration file.
+# Version 1.0.0
+# Edit with attention.
+info:
+  - "{prefix}: Information"
+  - "&dVersion: {version}"
+  - "&dAuthor: CMarco"
+  - "This plugin implements a calculator in your server. Created on Feb. 2024"
+
+messages:
+  prefix: "&7[&dCalculator&7]&r"
+  result: "{prefix}: Your result is &5{result}"
+  missing-permissions: "{prefix}: &cYou do not have this permission &4{permission}"
+  console-blocked: "{prefix}: &cThis command is not allowed from console."
+  incorrect-usage: '{prefix}: &cIncorrect command usage!'

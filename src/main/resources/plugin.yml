@@ -1,0 +1,9 @@
+name: 'SpigotCalculator'
+version: '${project.version}'
+main: 'top.cmarco.spigotcalculator.SpigotCalculator'
+api-version: '1.13'
+authors: [CMarco]
+description: 'Implement a Calculator into Spigot'
+commands:
+  calculator:
+    description: 'Use a calculator inside Minecraft'
